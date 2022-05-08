@@ -1,16 +1,16 @@
 @font-face {
     font-family: regular;
-    src: url(../font/Raleway/static/Raleway-Regular.ttf);
+    src: url(../fonts/Raleway/static/Raleway-Regular.ttf);
 }
 
 @font-face {
     font-family: light;
-    src: url(../font/Raleway/static/Raleway-Light.ttf);
+    src: url(../fonts/Raleway/static/Raleway-Light.ttf);
 }
 
 @font-face {
     font-family: bold-one;
-    src: url(../font/Raleway/static/Raleway-Bold.ttf);
+    src: url(../fonts/Raleway/static/Raleway-Bold.ttf);
 }
 
 li{
