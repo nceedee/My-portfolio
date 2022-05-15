@@ -2121,7 +2121,7 @@ p input[type="Submit"]{
         white-space: nowrap;
     }
 
-    .about-f-s-a-m .p:hover{
+    .about-f-s-a-m p:hover{
         text-overflow: clip;
         white-space: normal;
         display: block;
