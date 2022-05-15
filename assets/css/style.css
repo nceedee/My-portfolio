@@ -905,6 +905,7 @@ body::-webkit-scrollbar{
     
     h4{
         font-size: 12px;
+        line-height: 0px;
     }
     
     h5{
@@ -1150,11 +1151,15 @@ body::-webkit-scrollbar{
     
     h4{
         font-size: 12px;
+        line-height: 0px;
     }
     
     h5{
         font-size: 11px;
     
+    }
+    .index-sectioning .index-h4 a h4{
+        line-height: 0px;
     }
 
 
@@ -2860,7 +2865,7 @@ input,textarea{
         display: none;
         width: 100%;
         top: 50;
-        height: 85vh;
+        height: auto;
         box-shadow: 0 0px 2px rgba(0, 0, 0, 0.25), 0 10px 44px rgba(0, 0, 0, 0.22);
         margin: auto -5px;
         background-color: #8774eb;
@@ -4376,6 +4381,7 @@ body::-webkit-scrollbar{
     
     h4{
         font-size: 13px;
+        line-height: 0px;
     }
     
     h5{
