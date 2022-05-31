@@ -523,7 +523,8 @@ body::-webkit-scrollbar{
 
 .index-javascript{
     width: 80%;
-    animation: java 3s 4s;
+    animation: java 3s 4
+    s;
 }
 
 @keyframes html{
@@ -4168,6 +4169,7 @@ body::-webkit-scrollbar{
 }
 
 
+
 .service-project-food i{
     font-size: 20px;
     color: #8774eb;
@@ -4354,6 +4356,12 @@ body::-webkit-scrollbar{
     h5{
         font-size: 12px;
     }
+
+    .service-first-offer h1 a{
+        font-size: 50px;
+    }
+
+    
     
 }
 
@@ -4388,6 +4396,10 @@ body::-webkit-scrollbar{
     
     h5{
         font-size: 9px;
+    }
+
+    .service-first-offer h1 a{
+        font-size: 40px;
     }
 
 
@@ -4525,6 +4537,9 @@ body::-webkit-scrollbar{
         font-size: 8px;
     }
 
+    .service-first-offer h1 a{
+        font-size: 30px;
+    }
 
     .service-curve2 {
         width: 100%;
@@ -4606,6 +4621,10 @@ body::-webkit-scrollbar{
     h1{
         font-size: 20px;
         line-height: 20px;
+    }
+
+    .service-first-offer h1 a{
+        font-size: 20px;
     }
     
     h2{
@@ -4718,6 +4737,9 @@ body::-webkit-scrollbar{
         line-height: 50px;
     }
     
+    .service-first-offer h1 a{
+        font-size: 90px;
+    }
     h2{
         font-size: 40px;
         line-height: 15px;
